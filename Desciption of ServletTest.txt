@@ -1,0 +1,9 @@
+Project Run from server:
+	-Login credential from DB
+	-Admin Home Page 
+	-From Admin Home we can create and Read the data
+	-From View/Read page we can edit and delete data.
+
+CRUD operation done successfully.......
+
+Batch Processing done successfully...
